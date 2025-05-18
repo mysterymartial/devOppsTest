@@ -16,9 +16,9 @@ jobs:
       runs-on: ubuntu-latest
 
       steps:
-        - uses: actions/checkout@v1
+        - uses: actions/checkout@v4
         - name: Set up JDK 21
-          uses: actions/Setup-java@v1
+          uses: actions/Setup-java@v4
           with:
             distribution: termurin
             java-version: 21
