@@ -20,7 +20,7 @@ jobs:
         - name: Set up JDK 21
           uses: actions/Setup-java@v4
           with:
-            distribution: termurin
+            distribution: temurin
             java-version: 21
         - name: Maven Package
           run: mvn -B clean package
