@@ -1,6 +1,5 @@
 package africa.pk.data.model;
 
-import africa.pk.dto.response.ToDoEntryResponseDto;
 import lombok.Data;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.DBRef;

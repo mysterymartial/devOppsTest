@@ -3,7 +3,6 @@ package africa.pk.dto.response;
 import africa.pk.data.model.ToDoEntry;
 import lombok.Data;
 
-import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 

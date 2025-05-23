@@ -5,7 +5,6 @@ import africa.pk.data.model.ToDoEntry;
 import africa.pk.data.repository.ToDoRepository;
 import africa.pk.dto.request.ToDoEntryRequestDto;
 import africa.pk.dto.request.ToDoRequestDto;
-import africa.pk.dto.response.ToDoEntryResponseDto;
 import africa.pk.dto.response.ToDoResponseDto;
 import africa.pk.exception.DuplicateExpection;
 import africa.pk.exception.InvalidInput;

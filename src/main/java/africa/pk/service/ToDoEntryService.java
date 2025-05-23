@@ -4,7 +4,6 @@ import africa.pk.data.model.ToDo;
 import africa.pk.data.model.ToDoEntry;
 import africa.pk.dto.request.ToDoEntryRequestDto;
 import africa.pk.dto.response.ToDoEntryResponseDto;
-import africa.pk.dto.response.ToDoResponseDto;
 
 public interface ToDoEntryService {
     ToDoEntryResponseDto createToDoList(ToDoEntryRequestDto entryRequestDto);
