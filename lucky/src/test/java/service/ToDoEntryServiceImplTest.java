@@ -7,7 +7,6 @@ import africa.pk.dto.request.ToDoEntryRequestDto;
 import africa.pk.dto.response.ToDoEntryResponseDto;
 import africa.pk.exception.InvalidInput;
 import africa.pk.exception.UserNotFoundException;
-import africa.pk.service.ToDoEntryServiceImpl;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
